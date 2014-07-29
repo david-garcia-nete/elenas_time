@@ -20,41 +20,13 @@
     <![endif]-->
 </head>
 <body style =" background-image:url('http://33.media.tumblr.com/tumblr_mb4bfgqm7j1rnog2ho1_500.gif'); background-repeat:repeat;">
-<audio controls>
-    <source src="Laurelhouse - The River by brian doerksen.mp3" type="audio/mpeg">
-    <source src="Laurelhouse - The River by brian doerksen.ogg" type="audio/ogg">
-    <embed height="50" width="100" src="Laurelhouse - The River by brian doerksen.mp3">
-</audio>
-<br>
-<audio controls>
-    <source src="hijitobb - CRISTO FUE UN HOMBRE SINGULAR.mp3" type="audio/mpeg">
-    <source src="hijitobb - CRISTO FUE UN HOMBRE SINGULAR.ogg" type="audio/ogg">
-    <embed height="50" width="100" src="hijitobb - CRISTO FUE UN HOMBRE SINGULAR.mp3">
-</audio>
-<br>
-<audio controls>
-    <source src="Lucero Pereyra M. - Hija de un Rey (Letra) Sud.mp3" type="audio/mpeg">
-    <source src="Lucero Pereyra M. - Hija de un Rey (Letra) Sud.ogg" type="audio/ogg">
-    <embed height="50" width="100" src="Lucero Pereyra M. - Hija de un Rey (Letra) Sud.mp3">
-</audio>
-<br>
-<audio controls>
-    <source src="La Prueba es Vivir - Lds.mp3" type="audio/mpeg">
-    <source src="La Prueba es Vivir - Lds.ogg" type="audio/ogg">
-    <embed height="50" width="100" src="La Prueba es Vivir - Lds.mp3">
-</audio>
-<br>
-<audio controls>
-    <source src="Jorge Mauricio Cajamarca Aldana - YO SE QUE VIVE MI SENOR !!!.mp3" type="audio/mpeg">
-    <source src="Jorge Mauricio Cajamarca Aldana - YO SE QUE VIVE MI SENOR !!!.ogg" type="audio/ogg">
-    <embed height="50" width="100" src="Jorge Mauricio Cajamarca Aldana - YO SE QUE VIVE MI SENOR !!!.mp3">
-</audio>
-<br>
-<audio controls>
-    <source src="victorkary - sus manos (en espanol).mp3" type="audio/mpeg">
-    <source src="victorkary - sus manos (en espanol).ogg" type="audio/ogg">
-    <embed height="50" width="100" src="victorkary - sus manos (en espanol).mp3" >
-</audio>
+<div id="cp_widget_f6f75756-fe3e-4d53-b7a5-7d07ce5d9d02">...</div><script type="text/javascript">
+    var cpo = []; cpo["_object"] ="cp_widget_f6f75756-fe3e-4d53-b7a5-7d07ce5d9d02"; cpo["_fid"] = "AILAT1LFaije";
+    var _cpmp = _cpmp || []; _cpmp.push(cpo);
+    (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+        cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+        var c = document.getElementsByTagName("script")[0];
+        c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.<span>New Gallery 2014/7/29</span></noscript>
 <center><h1><span style="color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Elena's Time</span></h1></center>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
