@@ -20,13 +20,6 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 <body style =" background-image:url('http://33.media.tumblr.com/tumblr_mb4bfgqm7j1rnog2ho1_500.gif'); background-repeat:repeat;">
-<div id="cp_widget_3fd5b305-11ab-46f8-bfc7-078cca5d248f">...</div><script type="text/javascript">
-    var cpo = []; cpo["_object"] ="cp_widget_3fd5b305-11ab-46f8-bfc7-078cca5d248f"; cpo["_fid"] = "AILAT1LFaije";
-    var _cpmp = _cpmp || []; _cpmp.push(cpo);
-    (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-        cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
-        var c = document.getElementsByTagName("script")[0];
-        c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.<span>New Gallery 2014/7/29</span><span>Cristo Fué Un Hombre Singular</span><span>Yo Sé Que Vive Mi Señor</span><span>La Prueba es Vivir</span><span>The River</span><span>Hija De Un Rey</span><span>Sus Manos</span></noscript>
 <center><h1><span style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Brothers and Sisters</span></h1></center>
 <center><button style="font-family: 'Pinyon Script', cursive;font-size:100%;" id = "translate" value = "spanish" type="button" onclick="translator (this.value)">English</button></center>
 <p class="spanish" style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Hola a todos mi nombre es Elena Castaneda y fuí muy bendecida creci en un hogar maravilloso y humilde con buenos principios, soy la número cuatro de los hijos de mi madre somos tres chicas y un chico conoci el evangelio siendo aun muy pequeña por medio de mi abuelo quien tambien era mi padre una noche trajo consigo a los misioneros quienes trajieron un mensaje hermoso sobre ese bello plan de salvación, y quien diria que llego para quedarse pues todos en casa lo conocemos y es una bendición vivirlo.
@@ -42,8 +35,13 @@
 <p class="english"  style="display:none;background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">
     Hey! Change my life and many people want to know how many are happy living it? Stay here and meet somebody like you and me and let them tell us how the gospel changes your life.
 </p>
-
-
+<div id="cp_widget_053087b5-7f3b-491a-b592-0e025aacbaf9">...</div><script type="text/javascript">
+    var cpo = []; cpo["_object"] ="cp_widget_053087b5-7f3b-491a-b592-0e025aacbaf9"; cpo["_fid"] = "AILAT1LFaije";
+    var _cpmp = _cpmp || []; _cpmp.push(cpo);
+    (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+        cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+        var c = document.getElementsByTagName("script")[0];
+        c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.<span>New Gallery 2014/7/29</span><span>Cristo Fué Un Hombre Singular</span><span>Yo Sé Que Vive Mi Señor</span><span>La Prueba es Vivir</span><span>The River</span><span>Hija De Un Rey</span><span>Sus Manos</span></noscript>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
