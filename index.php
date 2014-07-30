@@ -16,11 +16,11 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <!--<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>-->
+    <!--<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
     <![endif]-->
-<body style =" background-image:url('http://33.media.tumblr.com/tumblr_mb4bfgqm7j1rnog2ho1_500.gif'); background-repeat:repeat;">
-<center><h1><span style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Brothers and Sisters</span></h1></center>
+<body style =" background-color:black;">
+<center><h1><img  style="vertical-align:bottom" class="post_media_photo" alt="" width="10%" height="10%" src="fae65fdb98-gif/frame_0.gif"><span style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Brothers and Sisters</span><img  style="vertical-align:bottom" class="post_media_photo" alt="" width="10%" height="10%" src="fae65fdb98-gif/frame_0.gif"></h1></center>
 <center><button style="font-family: 'Pinyon Script', cursive;font-size:100%;" id = "translate" value = "spanish" type="button" onclick="translator (this.value)">English</button></center>
 <p class="spanish" style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Hola a todos mi nombre es Elena Castaneda y fuí muy bendecida creci en un hogar maravilloso y humilde con buenos principios, soy la número cuatro de los hijos de mi madre somos tres chicas y un chico conoci el evangelio siendo aun muy pequeña por medio de mi abuelo quien tambien era mi padre una noche trajo consigo a los misioneros quienes trajieron un mensaje hermoso sobre ese bello plan de salvación, y quien diria que llego para quedarse pues todos en casa lo conocemos y es una bendición vivirlo.
         Tengo 24 años y e disfrutado de las bendicones del evanegelio por muchos de esos 24 años, me gusta bailar mas que cantar, jugar futból, la comida y cultura arabe. Yo creo que nunca es tarde para aprender algo Nuevo. En casa aprendi que estamos aqui para servir a los demás y eso es lo que trato de hacer. También tengo un testimonio sobre el libro de mormón: si es el libro que cambio mi vida, trajo paz a mi corazón y alimento mi espiritu me lleno de conocimiento de las cosas que mi padre celestial quiere que haga aqui. Amo con todo mi Corazon esta iglesia es verdadera que el profeta jose smith fue un profeta de Dios que el libro de Mormon es verdadero y que el temple es la casa de Dios sin duda se que mi padre celestial me ama y yo le amo a el.
@@ -47,7 +47,25 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <!--<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>-->
+<!--<script src="jquery-1.10.2.js"></script>-->
+
 <script>
+    $( ".post_media_photo" ).click(function() {
+
+            $(this).attr("src", "fae65fdb98-gif/frame_15.gif");
+
+    });
+
+//    $( ".post_media_photo" ).click(function() {
+//        alert ("hi");
+//        var i = 1;
+//        while (i<16){
+//            $(this).attr("src", , function() {
+//                return "fae65fdb98-gif/frame_" + i + ".gif";
+//            });
+//        }
+//    });
+
 function translator (current_language){
     if (current_language == "spanish"){
         $(".spanish").hide();
