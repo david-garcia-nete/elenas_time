@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="favicon.ico">
-    <title>A personal Web site for my friend Elena.</title>
+    <title>Elena's Time</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <!-- Optional theme -->
@@ -28,12 +28,18 @@
         var c = document.getElementsByTagName("script")[0];
         c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.<span>New Gallery 2014/7/29</span></noscript>
 
-<center><h1><span style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Elena's Time</span></h1></center>
-<p  style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Hola a todos mi nombre es Elena Castaneda y fuí muy bendecida creci en un hogar maravilloso y humilde con buenos principios, soy la número cuatro de los hijos de mi madre somos tres chicas y un chico conoci el evangelio siendo aun muy pequeña por medio de mi abuelo quien tambien era mi padre una noche trajo consigo a los misioneros quienes trajieron un mensaje hermoso sobre ese bello plan de salvación, y quien diria que llego para quedarse pues todos en casa lo conocemos y es una bendición vivirlo.
-    Tengo 24 años y e disfrutado de las bendicones del evanegelio por muchos de esos 24 años, me gusta bailar mas que cantar, jugar futból, la comida y cultura arabe. Yo creo que nunca es tarde para aprender algo Nuevo. En casa aprendi que estamos aqui para servir a los demás y eso es lo que trato de hacer. También tengo un testimonio sobre el libro de mormón: si es el libro que cambio mi vida, trajo paz a mi corazón y alimento mi espiritu me lleno de conocimiento de las cosas que mi padre celestial quiere que haga aqui. Amo con todo mi Corazon esta iglesia es verdadera que el profeta jose smith fue un profeta de Dios que el libro de Mormon es verdadero y que el temple es la casa de Dios sin duda se que mi padre celestial me ama y yo le amo a el.
+<center><h1><span style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Brothers and Sisters</span></h1></center>
+<p  style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">Hola a todos. Mi nombre es Elena Castaneda. Fuí muy bendecida porque creci en un hogar maravilloso y humilde con buenos principios. soy la número cuatro de los hijos de mi madre; somos tres chicas y un chico. Yo conoci el evangelio siendo aun muy pequeña por medio de mi abuelo quien tambien era mi padre una noche trajo consigo a los misioneros quienes trajieron un mensaje hermoso sobre ese bello plan de salvación, y quien diria que llego para quedarse pues todos en casa lo conocemos y es una bendición vivirlo.
 </p>
 <p  style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">
-    Hey! Cambio mi vida y la de muchas personas, quieres conocer cuantos somos felices viviendolo?
+
+    Tengo 24 años y e disfrutado de las bendicones del evanegelio por muchos de esos 24 años, me gusta bailar, cantar, jugar futból, la comida y cultura arabe. Yo creo que nunca es tarde para aprender algo Nuevo. En casa aprendi que estamos aqui para servir a los demás y eso es lo que trato de hacer.
+
+</p>
+<p  style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">También tengo un testimonio sobre el libro de mormón: si es el libro que cambio mi vida, trajo paz a mi corazón y alimento mi espiritu me lleno de conocimiento de las cosas que mi padre celestial quiere que haga aqui. Amo con todo mi Corazon esta iglesia es verdadera que el profeta jose smith fue un profeta de Dios que el libro de Mormon es verdadero y que el temple es la casa de Dios sin duda se que mi padre celestial me ama y yo le amo a el.
+</p>
+<p  style="background-color:black;color:white;font-size:200%;font-family: 'Pinyon Script', cursive;">
+    Hey! Yo cambié mi vida y la de muchas personas. Quieres conocer cuantos somos felices viviendolo?
     Quedate aqui y conoce a alguien como tu y como yo y dejemos que nos cuente como el evangelio cambio su vida.
 </p>
 
